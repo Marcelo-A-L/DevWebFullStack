@@ -1,0 +1,14 @@
+#paragrafos {
+    background-image: url(Perfil_Freedom_Linux.jpg);
+    border: 3px dashed black;
+}
+
+p {
+    color: blue;
+}
+
+#terciario {
+    color: white;
+    border: 3px solid gold;
+    text-decoration: underline;
+}

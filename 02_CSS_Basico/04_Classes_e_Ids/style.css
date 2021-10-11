@@ -1,0 +1,15 @@
+/* Identificador (id=""), utiliza # */
+
+#Titulo {
+    color: blue;
+}
+
+#principal {
+    color: blueviolet;
+}
+
+/* Classe (class=""), utiliza . (ponto) */
+
+.texto_red {
+    color: red;
+}

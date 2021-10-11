@@ -1,0 +1,29 @@
+/* Tamanho da fonte padrão, 16px */
+
+.container {
+    /* width: 50vw; */
+    /* width: 50vh; */
+    /* width: 50vmin; */
+    width: 80%;
+    background: red;
+
+    /* font-size: 25px;
+    width: 300px;
+    background-color: red; */
+}
+
+.inside {
+    width: 80%;
+    background: blue;
+
+    /* Faz referência ao tamanho da fonte do elemento raiz, tag HTML */
+    /* font-size: 1rem; */
+    /* Faz referência ao tamanho da fonte do elemento em questão */
+    /* font-size: 2em; */
+    /* width: 2em; */
+    /* background-color: blue; */
+}
+
+/* html {
+    font-size: 50px;
+} */

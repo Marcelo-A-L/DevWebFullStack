@@ -1,0 +1,30 @@
+body {
+    background-image: url(fundo_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.principal {
+    color: white;
+    background-color: red;
+}
+
+.secundario {
+    color: white;
+    background-color: blue;
+}
+
+.terciario {
+    color: white;
+    background-color: darkblue;
+}
+
+.quartenario {
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+    background-position: center;
+}

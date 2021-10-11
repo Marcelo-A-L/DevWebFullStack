@@ -1,0 +1,21 @@
+/* R = Red, G = Green, B = Blue. Vai de 0 zero a 255. */
+#principal {
+    color: dodgerblue;
+}
+
+.secundario {
+    color: rgb(20, 150, 40);
+}
+
+/* O Alpha vai de 0 zero até 1 um. Opacidade */
+.terciario {
+    color: rgba(75, 5, 10, 0.5);
+}
+
+/* RGB em Hexadecimal, onde inicia-se com #, onde os dois
+primeiro representa o R, o terceiro e o quarto o G, e o
+quinto e o sexto, o B. Exemplo #FFFF00 */
+
+.quartenario {
+    color: #FFFF00;
+}
