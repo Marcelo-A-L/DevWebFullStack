@@ -1,0 +1,19 @@
+p {
+    color: blueviolet;
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 35px;
+    text-decoration: underline overline line-through;
+    letter-spacing: 1.5px;
+    /* Espaço entre letras */
+    word-spacing: 20px;
+    /* Distância entre palavras */
+    line-height: 1.5;
+    /* Altura entre linha */
+    /* 1º - Sombra a direita. 2º - Sombra para baixo 3º - Desfoque, 4º - Cor */
+    text-shadow: 10px 15px 4px black;
+}
+
+a {
+    text-decoration: none;
+}

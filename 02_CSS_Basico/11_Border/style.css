@@ -1,0 +1,39 @@
+.borda {
+    border-width: 5px;
+    border-style: solid;
+    border-color: royalblue;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-color: red green blue yellow;
+    border-width: 5px 2px 10px 15px;
+}
+
+.border-dotted {
+    border-top-style: dotted;
+}
+
+.border-dashed {
+    border-style: dashed;
+}
+
+.border-solid {
+    border-style: solid;
+}
+
+.border-none {
+    border-style: none;
+}
+
+.border-hidden {
+    border-style: hidden;
+}
+
+.border-simple {
+    border: 5px dashed blue;
+}

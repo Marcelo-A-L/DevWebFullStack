@@ -1,0 +1,27 @@
+/* :link - Aplica apenas no link. Padrão, aplica tanto para o link, tanto para o visited */
+.links:link {
+    text-decoration: none;
+    color: blue;
+    cursor: cell;
+    /* background-color: darkblue; */
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    border: 2px solid darkblue;
+}
+
+.links:visited {
+    border-color: #ddd;
+    color: #ddd;
+}
+
+.links:hover {
+    background-color: black;
+    color: white;
+}
+
+.links:active {
+    background-color: darkblue;
+    color: white;
+}

@@ -1,0 +1,28 @@
+ul {
+    /* list-style-type: square; */
+    list-style-image: url("item.png");
+    margin: 0;
+    padding: 10px;
+    list-style-position: inside;
+    background-color: #f3e;
+}
+
+ol {
+    /* list-style-type: upper-roman; */
+    /* list-style-type: lower-roman; */
+    /* list-style-type: lower-alpha; */
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+    margin: 0;
+    padding: 10px;
+    background-color: #59e;
+}
+
+li {
+    text-decoration: none;
+    border: 1px solid;
+    background-color: gold;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}

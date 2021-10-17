@@ -1,0 +1,13 @@
+#base {
+    height: 10px;
+    background-color: red;
+}
+
+#container {
+    background-color: blue;
+    color: white;
+    margin: 10px;
+    /* margin-top: 10px;
+    margin-left: 10px; */
+    padding: 30px;
+}
