@@ -1,0 +1,61 @@
+.quadrado {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    /* position: static; */
+}
+
+.retangulo {
+    width: 200px;
+    height: 500px;
+    margin-top: 10px;
+    overflow: auto;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-gold {
+    background-color: gold;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.static {
+    position: static;
+}
+
+.relative {
+    position: relative;
+    /* top: 15px;
+    left: 20px; */
+    right: 40px;
+}
+
+.fixed {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+.absolute {
+    position: absolute;
+    right: 0px;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    bottom: 0;
+}

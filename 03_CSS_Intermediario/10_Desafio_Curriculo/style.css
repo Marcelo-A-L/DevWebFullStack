@@ -1,0 +1,50 @@
+html {
+    background-color: #581275;
+}
+
+body {
+    background-color: #69198b;
+    color: rgb(221, 221, 221);
+    margin: 20px 25% 20px 25%;
+    padding: 5px;
+    border: groove 3px royalblue;
+    line-height: 1.5;
+}
+
+.header {
+    overflow: auto;
+}
+
+.header img {
+    width: 300px;
+    margin-right: 10px;
+    border-radius: 36px;
+    max-width: 100%;
+    float: left;
+    clear: left;
+}
+
+.h_content h1 {
+    margin-top: 0;
+}
+
+.titulo h3 {
+    margin-top: 40px;
+    text-align: left;
+    font-weight: lighter;
+    overflow-x: auto;
+}
+
+.c_content {
+    text-align: justify;
+    overflow-x: auto;
+}
+
+ul {
+    padding-inline-start: 15px;
+    overflow-x: auto;
+}
+
+a {
+    color: rgb(221, 221, 221);
+}

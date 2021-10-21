@@ -1,0 +1,24 @@
+#img1 {
+    float: left;
+}
+
+p {
+    text-align: justify;
+    clear: none;
+}
+
+div {
+    border: 1px solid black;
+    overflow: auto;
+    padding: 10px;
+    background-color: gray;
+}
+
+ul li {
+    float: right;
+    list-style: none;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(101, 40, 172);
+    color: white;
+}
